@@ -1,4 +1,4 @@
-### Hi there 👋
+x### Hi there 👋
 <h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='giphy.gif' width='400'>
@@ -121,10 +121,10 @@ My work will be full of unique creativity and style .
 #### <a href="https://codeforces.com/profile/prak_aaditya"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/prak_aaditya&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="prak_aaditya's profile on Codeforces" title="prak_aaditya's profile on Codeforces"></a>
 
 #### Codechef
-#### <a href="https://www.codechef.com/users/ap6885"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/ap6885&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="ap6885's profile on CodeChef" title="ap6885's profile on CodeChef"></a>
+#### <a href="https://www.codechef.com/users/kunalgarg1213"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/ap6885&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="ap6885's profile on CodeChef" title="Kunal Garg's profile on CodeChef"></a>
 
 #### Leetcode
-#### ![Kunal Garg LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=prakashaaditya18&theme=dark)
+#### ![Kunal Garg LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=kunalgarg1213&theme=dark)
 
 
 ### Github Stats  :rocket:
