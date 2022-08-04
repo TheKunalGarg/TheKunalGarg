@@ -9,9 +9,9 @@ My work will be full of unique creativity and style .
 
 - 💬 Ask me about anything an everything.
 - 📫 How to reach me : (DO Follow the emoticon )✊
-- 📫 LinkedIn profile: [Kunal Garg](https://www.linkedin.com/in/prakashaaditya18/)
-- 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
-- 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/prak_aaditya)
+- 📫 LinkedIn profile: [Kunal Garg](https://www.linkedin.com/in/kunal12/)
+- 🔔 Instagram:- [Kunal Garg](https://www.instagram.com/_kunal.garg_/)
+- 🌀 Twitter:-   [Kunal Garg](https://twitter.com/_kunalgarg_)
 
 
 <h3 align="left">Languages and Tools:</h3>
