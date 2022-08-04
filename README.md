@@ -118,10 +118,10 @@ My work will be full of unique creativity and style .
 
 ### Competitive Programming Profile :fire:
 #### Codeforces
-#### <a href="https://codeforces.com/profile/prak_aaditya"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/prak_aaditya&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="prak_aaditya's profile on Codeforces" title="prak_aaditya's profile on Codeforces"></a>
+#### <a href="https://codeforces.com/profile/kunalgarg1213"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/kunalgarg1213&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="Kunal Garg's profile on Codeforces" title="Kunal Garg's profile on Codeforces"></a>
 
-#### Codechef
-#### <a href="https://www.codechef.com/users/kunalgarg1213"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/ap6885&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="ap6885's profile on CodeChef" title="Kunal Garg's profile on CodeChef"></a>
+<!-- #### Codechef
+#### <a href="https://www.codechef.com/users/kunalgarg1213"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/kunalgarg1213&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="kunalgarg1213's profile on CodeChef" title="Kunal Garg's profile on CodeChef"></a> -->
 
 #### Leetcode
 #### ![Kunal Garg LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=kunalgarg1213&theme=dark)
