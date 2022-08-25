@@ -7,8 +7,7 @@ Hi, My name is Kunal Garg. I have a keen interest in Machine Learning and Web De
 I am very dedicated to my work and passionate about implementing and launching new ideas. Fast learner and adaptable to different project environments.
 My work will be full of unique creativity and style .
 
-- 💬 Ask me about anything an everything.
-- 📫 How to reach me : (DO Follow the emoticon )✊
+📫 How to reach me :
 - 📫 LinkedIn profile: [Kunal Garg](https://www.linkedin.com/in/kunal12/)
 - 🔔 Instagram:- [Kunal Garg](https://www.instagram.com/_kunal.garg_/)
 - 🌀 Twitter:-   [Kunal Garg](https://twitter.com/_kunalgarg_)
